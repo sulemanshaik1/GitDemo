@@ -5,4 +5,4 @@ var d=50;
 var d=50;
 var b=20;//I resolved your issue
 
-var shj = 19;
+var shj = 20;
